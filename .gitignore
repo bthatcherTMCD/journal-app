@@ -1,0 +1,5 @@
+C:\Users\Bthatcher\virtualenvs\online_journal
+*.pyc
+__pycache
+.DS_Store
+db.sqlite3
